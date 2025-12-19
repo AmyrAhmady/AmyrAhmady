@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**AmyrAhmady/AmyrAhmady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in **games, programming, and reverse engineering**.
 
-Here are some ideas to get you started:
+### 👨‍💻 What I do
+- **C++ Developer** (systems, performance-critical, and low-level work)
+- **Mobile App Developer** using **React Native**
+- **Full-Stack Developer** (frontend, backend, and tooling)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Links
+- **Personal website:** https://amii.ir  
+- **Discord:** `iamir` (also active in https://discord.gg/samp)  
+- **Email:** reach@amii.ir  
+
+### 💖 Support
+- **Donations:** https://donate.amii.ir/
