@@ -3,7 +3,7 @@
 Interested in **games, programming, and reverse engineering**.
 
 ### 👨‍💻 What I do
-- **C++ Developer** (systems, performance-critical, and low-level work)
+- **C++ Developer** (games, making mods, and low-level work)
 - **Mobile App Developer** using **React Native**
 - **Full-Stack Developer** (frontend, backend, and tooling)
 
